@@ -1,0 +1,3 @@
+[submodule "common1"]
+	path = common1
+	url = https://github.com/velmuruganmuthusamy/common1.git
